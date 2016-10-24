@@ -1,0 +1,5 @@
+server1:
+  - serverId: aff99
+  - scriptid: 9
+  - farmname: 'demo instances'
+  - artifacturl: 'http://nexus/a.jar
