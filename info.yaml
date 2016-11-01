@@ -1,5 +1,5 @@
 ---
-applications:
+deployments:
 - FarmName: Demo Instances
   Serverid: f99e54ab-31ad-417a-99ac-66bde3c6576c
   ScriptID: 9
