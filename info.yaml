@@ -6,12 +6,12 @@ deployments:
   artifacturl: http://test.war
   EnvID: 1
 - FarmName: Demo Instances
-  Serverid: f99e54ab-31ad-417a-99ac-66bde3c6576c
+  Serverid: test98
   ScriptID: 9
   artifacturl: http://test.war
   EnvID: 1
 - FarmName: Demo Instances
-  Serverid: test98
+  Serverid: f99e54ab-31ad-417a-99ac-66bde3c6576c
   ScriptID: 9
   artifacturl: http://test.war
   EnvID: 1
